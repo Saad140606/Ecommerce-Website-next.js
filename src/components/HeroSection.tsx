@@ -5,11 +5,10 @@ import Link from "next/link";
 
 interface HeroSectionProps {
   images: string[];
-  title: string;
-  paragraph: string;
+ 
 }
 
-export default function HeroSection({ images, title, paragraph }: HeroSectionProps) {
+export default function HeroSection({ images }: HeroSectionProps) {
   const [currentSlide, setCurrentSlide] = useState<number>(0);
   const slideInterval = useRef<NodeJS.Timeout | null>(null);
   const slideCount = images.length;
