@@ -14,9 +14,9 @@ const HomePage = () => {
     "/assets/banner5.jpg",
     "/assets/banner6.jpg"
   ];
-  const title = "FabricNest";
+  const title = "Discover Your Style Haven at FabricNest";
   const paragraph =
-    "Welcome to FabricNest, your go-to for stylish Men's and Women's Outfits, trendy Accessories, high-performance Shoes, and top-quality Equipment!";
+    "Explore a world of premium fabrics, trendy outfits, and timeless elegance. Redefine your wardrobe with us.";
   return (
     <>
      <HeroSection images={images} title={title} paragraph={paragraph} />
