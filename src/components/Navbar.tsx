@@ -33,7 +33,7 @@ export default function Navbar() {
     setCategoriesOpen(false);
   }, [pathname]);
 
-  const pathsWithTransparentBg = ['/', '/about', '/shoes', '/accessories', '/equipment', '/menOutfits', '/womenOutfits'];
+  const pathsWithTransparentBg = ['/', '/about', '/shirts', '/summer', '/childrens', '/menOutfits', '/womenOutfits'];
   const navbarBgColor = pathsWithTransparentBg.includes(pathname) 
     ? (scrolled ? 'theme' : 'bg-transparent') 
     : 'theme';
@@ -122,15 +122,15 @@ export default function Navbar() {
                 <div>
                   <Link href="/menOutfits" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">
                     Men Outfits
-                    <p className="text-sm text-gray-500">Explore FabricNest's men’s outfits, where timeless style meets unmatched comfort for every occasion.</p>
+                    <p className="text-sm text-gray-500">Explore FabricNest men outfits, where timeless style meets unmatched comfort for every occasion.</p>
                   </Link>
                   <Link href="/womenOutfits" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">
                     Women Outfits
-                    <p className="text-sm text-gray-500">Explore FabricNest's women’s outfits, offering a perfect blend of elegance, comfort, and contemporary style for every occasion.</p>
+                    <p className="text-sm text-gray-500">Explore FabricNest women outfits, offering a perfect blend of elegance, comfort, and contemporary style for every occasion.</p>
                   </Link>
                   <Link href="/summer" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">
                     Summer Collection
-                    <p className="text-sm text-gray-500">Explore FabricNest's Summer Collection, Stay cool and stylish this season with our lightweight, breezy outfits for men, women, and children—perfect for sunny days and casual outings.</p>
+                    <p className="text-sm text-gray-500">Explore FabricNest Summer Collection, Stay cool and stylish this season with our lightweight, breezy outfits for men, women, and children—perfect for sunny days and casual outings.</p>
                   </Link>
                 </div>
 
@@ -138,11 +138,11 @@ export default function Navbar() {
                 <div>
                   <Link href="/childrens" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">
                     Childrens Outfits
-                    <p className="text-sm text-gray-500">Explore FabricNest's children's outfits, designed for comfort, fun, and style, perfect for every little adventure.</p>
+                    <p className="text-sm text-gray-500">Explore FabricNest childrens outfits, designed for comfort, fun, and style, perfect for every little adventure.</p>
                   </Link>
                   <Link href="/shirts" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">
                     T-Shirts
-                    <p className="text-sm text-gray-500">Explore FabricNest's collection of t-shirts, offering stylish, comfortable, and versatile options for every wardrobe.</p>
+                    <p className="text-sm text-gray-500">Explore FabricNest collection of t-shirts, offering stylish, comfortable, and versatile options for every wardrobe.</p>
                   </Link>
                 </div>
               </div>
