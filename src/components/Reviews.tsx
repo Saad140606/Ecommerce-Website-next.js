@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useRef } from "react";
+import Image from "next/image";
 
 export default function Reviews() {
   const scrollRef = useRef<HTMLDivElement | null>(null);
@@ -66,7 +67,7 @@ export default function Reviews() {
                 Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra <br/> before they sold out fixie 90&apos;s microdosing. Tacos pinterest fanny pack venmo,<br/> post-ironic heirloom try-hard pabst authentic iceland.
               </p>
               <a className="inline-flex items-center mt-auto">
-                <img alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
+                <Image alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-white">Saad Najam</span>
                   <span className="text-gray-500 text-sm">UI DEVELOPER</span>
@@ -84,7 +85,7 @@ export default function Reviews() {
                 Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra <br/> before they sold out fixie 90&apos;s microdosing. Tacos pinterest fanny pack venmo,<br/> post-ironic heirloom try-hard pabst authentic iceland.
               </p>
               <a className="inline-flex items-center mt-auto">
-                <img alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
+                <Image alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-white">Nahyan Khan</span>
                   <span className="text-gray-500 text-sm">UI DEVELOPER</span>
@@ -102,7 +103,7 @@ export default function Reviews() {
                 Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra <br/> before they sold out fixie 90&apos;s microdosing. Tacos pinterest fanny pack venmo,<br/> post-ironic heirloom try-hard pabst authentic iceland.
               </p>
               <a className="inline-flex items-center mt-auto">
-                <img alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
+                <Image alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-white">Izhan</span>
                   <span className="text-gray-500 text-sm">UI DEVELOPER</span>
@@ -120,7 +121,7 @@ export default function Reviews() {
                 Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra <br/> before they sold out fixie 90&apos;s microdosing. Tacos pinterest fanny pack venmo,<br/> post-ironic heirloom try-hard pabst authentic iceland.
               </p>
               <a className="inline-flex items-center mt-auto">
-                <img alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
+                <Image alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-white">Shaheer</span>
                   <span className="text-gray-500 text-sm">UI DEVELOPER</span>
@@ -138,7 +139,7 @@ export default function Reviews() {
                 Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra <br/> before they sold out fixie 90&apos;s microdosing. Tacos pinterest fanny pack venmo,<br/> post-ironic heirloom try-hard pabst authentic iceland.
               </p>
               <a className="inline-flex items-center mt-auto">
-                <img alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
+                <Image alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-white">Sami</span>
                   <span className="text-gray-500 text-sm">UI DEVELOPER</span>
@@ -156,7 +157,7 @@ export default function Reviews() {
                 Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra <br/> before they sold out fixie 90&apos;s microdosing. Tacos pinterest fanny pack venmo,<br/> post-ironic heirloom try-hard pabst authentic iceland.
               </p>
               <a className="inline-flex items-center mt-auto">
-                <img alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
+                <Image alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-white">Ghufran</span>
                   <span className="text-gray-500 text-sm">UI DEVELOPER</span>
