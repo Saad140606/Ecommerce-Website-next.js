@@ -1,0 +1,534 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cotton Crewneck T-Shirt",
+    "price": 59.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts.jpg",
+    "description": "Soft, breathable, and perfect for everyday wear."
+  },
+  {
+    "id": 2,
+    "name": "Oversized T-Shirt",
+    "price": 89.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts1.jpg",
+    "description": "Relaxed fit for ultimate comfort."
+  },
+  {
+    "id": 3,
+    "name": "Striped T-Shirt",
+    "price": 59.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts2.jpg",
+    "description": "Classic pattern for effortless style"
+  },
+  {
+    "id": 4,
+    "name": "Graphic T-Shirt",
+    "price": 89.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts3.jpg",
+    "description": "Make a statement with our graphic t-shirts, featuring bold designs and vibrant prints, perfect for expressing your personality in a casual and stylish way."
+  },
+  {
+    "id": 5,
+    "name": "V-Neck T-Shirt",
+    "price": 59.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts4.jpg",
+    "description": "Add a touch of modern style with our v-neck t-shirts, designed to provide a flattering fit and comfortable feel for everyday wear."
+  },
+  {
+    "id": 6,
+    "name": "Striped T-Shirt",
+    "price": 89.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts6.jpg",
+    "description": "Bring some classic flair to your wardrobe with our striped t-shirts, offering a timeless pattern that’s perfect for casual outings or weekend get-togethers."
+  },
+  {
+    "id": 7,
+    "name": "Long Sleeve T-Shirt",
+    "price": 59.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts7.jpg",
+    "description": "Ideal for cooler days, our long sleeve t-shirts combine comfort and style, making them perfect for layering or wearing solo."
+  },
+  {
+    "id": 8,
+    "name": "Tie-Dye T-Shirt",
+    "price": 89.99,
+    "slug": "shirt8",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts8.jpg",
+    "description": "Bring color and fun to your wardrobe with our tie-dye t-shirts, offering a playful, vibrant pattern that’s perfect for a laid-back, summer vibe."
+  },
+  {
+    "id": 9,
+    "name": "Ringer T-Shirt",
+    "price": 59.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts9.jpg",
+    "description": "Retro-inspired and modern at the same time, our ringer t-shirts feature contrasting color edges for a stylish, sporty look."
+  },
+  {
+    "id": 10,
+    "name": "Henley T-Shirt",
+    "price": 89.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts10.jpg",
+    "description": "A perfect mix of casual and classic, our henley t-shirts with their button-down collar provide a relaxed, stylish fit with a hint of vintage charm."
+  },
+  {
+    "id": 11,
+    "name": "Tech T-Shirt",
+    "price": 59.99,
+    "slug": "shirt",
+    "category": "shirt",
+    "img": "/assets/Shirts/shirts11.jpg",
+    "description": "Stay cool and comfortable with our tech t-shirts, designed with moisture-wicking fabric to keep you dry and fresh, whether you’re working out or going for a casual stroll."
+  },
+  {
+    "id": 12,
+    "name": "Pocket T-Shirt",
+    "price": 89.99,
+    "slug": "shirt",
+    "category": "shirts",
+    "img": "/assets/Shirts/shirts12.jpg",
+    "description": "Add a functional twist to your casual look with our pocket t-shirts, featuring a handy pocket and a relaxed fit for easygoing style."
+  },
+  {
+    "id": 13,
+    "name": "Tailored Suit",
+    "price": 59.99,
+    "slug": "trail-runner-outfit",
+    "category": "men",
+    "img": "/assets/Mens/men.jpg",
+    "description": "Crafted for the modern man, this tailored suit offers a sharp, professional look with a perfect fit, ideal for business meetings, weddings, or any formal event."
+  },
+  {
+    "id": 14,
+    "name": "Slim-Fit Suit",
+    "price": 89.99,
+    "slug": "pro-basketball-kit",
+    "category": "men",
+    "img": "/assets/Mens/men2.jpg",
+    "description": "Designed with a sleek, slim silhouette, this suit combines contemporary style with comfort, perfect for those who want a polished yet modern appearance."
+  },
+  {
+    "id": 15,
+    "name": "Double-Breasted Suit",
+    "price": 59.99,
+    "slug": "city-runner-set",
+    "category": "men",
+    "img": "/assets/Mens/men3.jpg",
+    "description": " Featuring a classic double-breasted design, this suit exudes sophistication and timeless elegance, making it ideal for formal occasions and evening events."
+  },
+  {
+    "id": 16,
+    "name": "Three-Piece Suit",
+    "price": 89.99,
+    "slug": "court-dominator-kit",
+    "category": "men",
+    "img": "/assets/Mens/men4.jpg",
+    "description": "Complete with a vest, this three-piece suit provides extra refinement and versatility, perfect for a formal look that stands out."
+  },
+  {
+    "id": 17,
+    "name": "Wool Suit",
+    "price": 59.99,
+    "slug": "endurance-track-outfit",
+    "category": "men",
+    "img": "/assets/Mens/men5.jpg",
+    "description": "Made from premium wool, this suit is soft, breathable, and perfect for year-round wear, offering both comfort and a sharp look for any occasion."
+  },
+  {
+    "id": 18,
+    "name": "Charcoal Grey Suit",
+    "price": 89.99,
+    "slug": "elite-hoops-wear",
+    "category": "men",
+    "img": "/assets/Mens/men6.jpg",
+    "description": "This sleek charcoal grey suit offers a refined, sophisticated look, perfect for professional settings and formal occasions."
+  },
+  {
+    "id": 19,
+    "name": "Navy Suit",
+    "price": 59.99,
+    "slug": "sprint-runner-outfit",
+    "category": "men",
+    "img": "/assets/Mens/men7.jpg",
+    "description": "A versatile and classic choice, this navy suit delivers a timeless appeal, suitable for everything from office wear to evening gatherings."
+  },
+  {
+    "id": 20,
+    "name": "Tuxedo Suit",
+    "price": 89.99,
+    "slug": "power-dunk-kit",
+    "category": "men",
+    "img": "/assets/Mens/men8.jpg",
+    "description": "Elevate your formal wear with this classic tuxedo, designed for black-tie events and special occasions, offering a timeless and elegant appearance."
+  },
+  {
+    "id": 21,
+    "name": "Checkered Suit",
+    "price": 59.99,
+    "slug": "marathon-runner-pack",
+    "category": "men",
+    "img": "/assets/Mens/men9.jpg",
+    "description": "Featuring a bold checkered pattern, this suit combines modern flair with classic tailoring, making it perfect for those who want to stand out with style."
+  },
+  {
+    "id": 22,
+    "name": "Lightweight Linen Suit",
+    "price": 89.99,
+    "slug": "all-star-basketball-gear",
+    "category": "men",
+    "img": "/assets/Mens/men10.jpg",
+    "description": "Ideal for warmer weather, this lightweight linen suit is breathable and stylish, offering comfort without sacrificing a sharp, professional look."
+  },
+  {
+    "id": 23,
+    "name": "Textured Suit",
+    "price": 59.99,
+    "slug": "off-road-runner-set",
+    "category": "men",
+    "img": "/assets/Mens/men11.jpg",
+    "description": "With a subtle texture, this suit adds depth and dimension to your wardrobe, providing a unique, stylish option for both business and formal events."
+  },
+  {
+    "id": 24,
+    "name": "Black Suit",
+    "price": 89.99,
+    "slug": "champions-basketball-set",
+    "category": "men",
+    "img": "/assets/Mens/men12.jpg",
+    "description": "A timeless classic, this black suit offers unmatched versatility and sophistication, making it the perfect choice for any formal event or professional occasion."
+  },
+  {
+    "id": 25,
+    "name": "Denim Overalls",
+    "price": 59.99,
+    "slug": "ultimate-running-gear",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child.jpg",
+    "description": "Stylish and durable, these denim overalls are designed for little explorers, combining practicality with timeless charm."
+  },
+  {
+    "id": 26,
+    "name": "Graphic Hoodie",
+    "price": 89.99,
+    "slug": "pro-basketball-gear",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child3.jpg",
+    "description": "Keep your child warm and trendy with this graphic hoodie featuring playful prints and a snug fit for cooler days."
+  },
+  {
+    "id": 27,
+    "name": "Ruffled Dress",
+    "price": 59.99,
+    "slug": "lightweight-running-essentials",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child2.jpg",
+    "description": "Perfect for parties or special occasions, this ruffled dress adds a touch of elegance with its charming design and soft fabric."
+  },
+  {
+    "id": 28,
+    "name": "Jogger Pants",
+    "price": 89.99,
+    "slug": "all-star-basketball-kit",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child5.jpg",
+    "description": "These stretchy and comfortable jogger pants are ideal for active play, providing durability and ease of movement."
+  },
+  {
+    "id": 29,
+    "name": "Plaid Shirt",
+    "price": 59.99,
+    "slug": "advanced-running-accessories",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child6.jpg",
+    "description": "This classic plaid shirt combines style and comfort, making it a great choice for casual outings or family gatherings."
+  },
+  {
+    "id": 30,
+    "name": "Raincoat",
+    "price": 89.99,
+    "slug": "elite-basketball-training-set",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child7.jpg",
+    "description": "Keep your kids dry and happy with this colorful waterproof raincoat, designed for rainy-day fun and adventure."
+  },
+
+  {
+    "id": 32,
+    "name": "Sweater Vest",
+    "price": 89.99,
+    "slug": "basketball-practice-essentials",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child8.jpg",
+    "description": "This cozy sweater vest is a smart layering piece, perfect for adding warmth and style to any outfit on cooler days."
+  },
+  {
+    "id": 33,
+    "name": "Shorts Set",
+    "price": 59.99,
+    "slug": "endurance-running-kit",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child9.jpg",
+    "description": "Lightweight and breathable, this shorts set is perfect for sunny day play, offering comfort and style for endless outdoor fun."
+  },
+  {
+    "id": 34,
+    "name": "Striped Romper",
+    "price": 89.99,
+    "slug": "pro-basketball-training-gear",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child10.jpg",
+    "description": "This striped romper combines playful patterns with a comfortable one-piece design, perfect for everyday adventures or outings."
+  },
+  {
+    "id": 35,
+    "name": "Puffer Jacket",
+    "price": 59.99,
+    "slug": "running-safety-kit",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child11.jpg",
+    "description": "Keep your little one warm and cozy in this lightweight yet insulated puffer jacket, ideal for chilly weather."
+  },
+  {
+    "id": 36,
+    "name": "Festive Party Outfit",
+    "price": 89.99,
+    "slug": "all-in-one-basketball-equipment",
+    "category": "Childrens",
+    "img": "/assets/Childrens/child12.jpg",
+    "description": "Designed for special celebrations, this festive outfit features vibrant colors and charming details to make your child shine."
+  },
+  {
+    "id": 37,
+    "name": "Linen Shirt and Shorts",
+    "price": 59.99,
+    "slug": "essential-running-accessories",
+    "category": "Summer",
+    "img": "/assets/Summer/summer.jpg",
+    "description": "Stay cool and stylish with a breathable linen shirt paired with lightweight shorts, perfect for sunny days."
+  },
+  {
+    "id": 38,
+    "name": "Graphic Tee and Chino Shorts",
+    "price": 89.99,
+    "slug": "pro-basketball-accessories",
+    "category": "Summer",
+    "img": "/assets/Summer/summer2.jpg",
+    "description": "A trendy graphic tee combined with comfortable chino shorts for casual summer outings."
+  },
+  {
+    "id": 39,
+    "name": "Polo Shirt and Lightweight Trousers",
+    "price": 59.99,
+    "slug": "premium-running-gear",
+    "category": "Summer",
+    "img": "/assets/Summer/summer3.jpg",
+    "description": "Look sharp yet relaxed with a classic polo shirt and breathable trousers."
+  },
+  {
+    "id": 40,
+    "name": "Button-Down Shirt and Denim Shorts",
+    "price": 89.99,
+    "slug": "basketball-performance-kit",
+    "category": "Summer",
+    "img": "/assets/Summer/summer4.jpg",
+    "description": "A relaxed button-down shirt with rolled sleeves and casual denim shorts for a laid-back summer vibe."
+  },
+  {
+    "id": 41,
+    "name": "Tank Top and Jogger Shorts",
+    "price": 59.99,
+    "slug": "comfort-running-accessories",
+    "category": "Summer",
+    "img": "/assets/Summer/summer5.jpg",
+    "description": "Beat the heat in a sporty tank top paired with comfy jogger shorts for active summer days."
+  },
+  {
+    "id": 42,
+    "name": "Flowy Maxi Dress",
+    "price": 89.99,
+    "slug": "all-in-one-basketball-accessories",
+    "category": "Summer",
+    "img": "/assets/Summer/summer6.jpg",
+    "description": "Stay elegant and breezy in a lightweight, floral maxi dress, perfect for summer occasions."
+  },
+  {
+    "id": 43,
+    "name": "Crop Top and High-Waisted Shorts",
+    "price": 59.99,
+    "slug": "running-comfort-pack",
+    "category": "Summer",
+    "img": "/assets/Summer/summer7.jpg",
+    "description": "Beat the heat in style with a trendy crop top and flattering high-waisted shorts."
+  },
+  {
+    "id": 44,
+    "name": "Sleeveless Jumpsuit",
+    "price": 89.99,
+    "slug": "basketball-skill-development-gear",
+    "category": "Summer",
+    "img": "/assets/Summer/summer8.jpg",
+    "description": "A chic one-piece outfit with breathable fabric for effortless summer styling."
+  },
+  {
+    "id": 45,
+    "name": "Linen Tunic and Wide-Leg Pants",
+    "price": 59.99,
+    "slug": "running-accessories-bundle",
+    "category": "Summer",
+    "img": "/assets/Summer/summer9.jpg",
+    "description": "A breezy linen tunic paired with relaxed wide-leg pants for a sophisticated summer look."
+  },
+  {
+    "id": 46,
+    "name": "Off-Shoulder Top and Skirt",
+    "price": 89.99,
+    "slug": "basketball-training-essentials",
+    "category": "Summer",
+    "img": "/assets/Summer/summer10.jpg",
+    "description": "Show off summer vibes with a flirty off-shoulder top and a flowy skirt."
+  },
+  {
+    "id": 47,
+    "name": "Cotton T-Shirt and Shorts",
+    "price": 59.99,
+    "slug": "ultimate-running-accessories",
+    "category": "Summer",
+    "img": "/assets/Summer/summer11.jpg",
+    "description": "A soft, breathable cotton t-shirt paired with lightweight shorts, perfect for playtime and outdoor adventures."
+  },
+  {
+    "id": 48,
+    "name": "Sundress with Ruffles",
+    "price": 89.99,
+    "slug": "basketball-game-day-set",
+    "category": "Summer",
+    "img": "/assets/Summer/summer12.jpg",
+    "description": " Adorable and breezy, this ruffled sundress keeps your little one cool and stylish during sunny days."
+  },
+  {
+    "id": 49,
+    "name": "Maxi Dress",
+    "price": 59.99,
+    "slug": "women1",
+    "category": "Women",
+    "img": "/assets/Women/women2.jpg",
+    "description": " A flowing design crafted from premium fabric, this maxi dress offers both elegance and comfort, making it perfect for formal occasions or evening outings."
+  },
+  {
+    "id": 50,
+    "name": "Peplum Top",
+    "price": 89.99,
+    "slug": "women2",
+    "category": "Women",
+    "img": "/assets/Women/women9.jpg",
+    "description": "With its feminine structure and playful flair, this peplum top is designed to flatter the figure while adding a touch of elegance to any outfit."
+  },
+  {
+    "id": 51,
+    "name": "Blouse",
+    "price": 59.99,
+    "slug": "women3",
+    "category": "Women",
+    "img": "/assets/Women/women6.jpg",
+    "description": "Versatile and chic, this classic blouse is ideal for both work and casual outings, offering a polished look with a touch of sophistication."
+  },
+  {
+    "id": 52,
+    "name": "Wrap Skirt",
+    "price": 89.99,
+    "slug": "womens-basketball-training-outfit",
+    "category": "Women",
+    "img": "/assets/Women/women4.jpg",
+    "description": "This adjustable wrap skirt combines sophistication and comfort, offering a flattering silhouette that's perfect for both work and casual wear."
+  },
+  {
+    "id": 53,
+    "name": "Linen Tunic",
+    "price": 59.99,
+    "slug": "stylish-womens-running-attire",
+    "category": "Women",
+    "img": "/assets/Women/women5.jpg",
+    "description": "Made from lightweight and breathable linen, this tunic offers a relaxed, stylish vibe, making it an ideal choice for warm weather or laid-back outings."
+  },
+  {
+    "id": 54,
+    "name": "Chic Jumpsuit",
+    "price": 89.99,
+    "slug": "womens-basketball-game-day-gear",
+    "category": "Women",
+    "img": "/assets/Women/women3.jpg",
+    "description": "This stylish one-piece jumpsuit blends sophistication and modern design, offering a seamless look that’s perfect for everything from casual to formal occasions."
+  },
+  {
+    "id": 55,
+    "name": "Printed Midi Dress",
+    "price": 59.99,
+    "slug": "comfortable-womens-running-outfit",
+    "category": "Women",
+    "img": "/assets/Women/women7.jpg",
+    "description": "Featuring bold and eye-catching patterns, this printed midi dress makes a stylish statement, perfect for brunches, parties, or casual events."
+  },
+  {
+    "id": 56,
+    "name": "Palazzo Pants",
+    "price": 89.99,
+    "slug": "womens-basketball-training-kit",
+    "category": "Women",
+    "img": "/assets/Women/women8.jpg",
+    "description": "These wide-leg palazzo pants offer an airy, all-day elegance that’s perfect for both relaxing weekends and dressier occasions."
+  },
+  {
+    "id": 57,
+    "name": "Floral Wrap Dress",
+    "price": 59.99,
+    "slug": "fashionable-womens-running-gear",
+    "category": "Women",
+    "img": "/assets/Women/women.jpg",
+    "description": "A flattering wrap design adorned with delicate floral prints, this dress combines femininity and comfort, making it perfect for both daytime events and evening outings."
+  },
+  {
+    "id": 58,
+    "name": "Cardigan",
+    "price": 89.99,
+    "slug": "womens-basketball-all-star-outfit",
+    "category": "Women",
+    "img": "/assets/Women/women10.jpg",
+    "description": "This cozy cardigan is the perfect layering essential, offering timeless versatility to add warmth and style to any outfit."
+  },
+  {
+    "id": 59,
+    "name": "High-Waisted Pants",
+    "price": 59.99,
+    "slug": "versatile-womens-running-outfit",
+    "category": "Women",
+    "img": "/assets/Women/women11.jpg",
+    "description": "These high-waisted pants provide a flattering fit with a tailored touch, perfect for creating a polished and contemporary look."
+  },
+  {
+    "id": 60,
+    "name": "Trendy Crop Top",
+    "price": 89.99,
+    "slug": "womens-basketball-skills-development-set",
+    "category": "Women",
+    "img": "/assets/Women/women12.jpg",
+    "description": "With its modern style, this trendy crop top adds a playful yet refined touch to any outfit, perfect for casual or semi-formal occasions."
+  }
+]
