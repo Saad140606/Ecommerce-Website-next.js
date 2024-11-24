@@ -65,10 +65,10 @@ export default function HeroSection({ images, title, paragraph }: HeroSectionPro
              
               <div className=""></div>
             </div><br />
-            <span><Link href={'/about'}>
-        <button className="inline-flex button py-2 px-6 text-lg">Shop Now</button>
+            <span><Link href={'/menOutfits'}>
+        <button className="inline-flex button py-2 px-6 text-lg" >Shop Now</button> 
         </Link></span> 
-        <span><Link href={'/about'}>
+        <span><Link href={'/summer'}>
         <button className="inline-flex button py-2 px-6 text-lg">Explore Collections</button>
         </Link></span>
           </div>
