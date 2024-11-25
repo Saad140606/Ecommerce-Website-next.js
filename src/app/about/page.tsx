@@ -11,7 +11,7 @@ export default function About() {
   return (
     <div>
        <HeroSection
-        images={["/assets/Shoes/shirts12.jpg"]}
+        images={["/assets/Shirts/shirts12.jpg"]}
         title={title} paragraph={paragraph}
       />
       <AboutUs/>

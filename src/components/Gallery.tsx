@@ -21,7 +21,7 @@ export default function Gallery() {
                 height={2000}
                 alt="gallery"
                 className="w-full object-cover h-full rounded-lg transition-transform duration-300 ease-in-out hover:scale-105"
-                src="/assets/Shoes/shirts.jpg"
+                src="/assets/Shirts/shirts.jpg"
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
@@ -30,7 +30,7 @@ export default function Gallery() {
                 height={2000}
                 alt="gallery"
                 className="w-full object-cover h-full rounded-lg transition-transform duration-300 ease-in-out hover:scale-105"
-                src="/assets/Shoes/shirts2.jpg"
+                src="/assets/Shirts/shirts2.jpg"
               />
             </div>
             <div className="md:p-2 p-1 w-full">
@@ -60,7 +60,7 @@ export default function Gallery() {
                 height={2000}
                 alt="gallery"
                 className="w-full object-cover h-full rounded-lg transition-transform duration-300 ease-in-out hover:scale-105"
-                src="/assets/Shoes/shirts3.jpg"
+                src="/assets/Shirts/shirts3.jpg"
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
