@@ -55,7 +55,7 @@ export default function HeroSection({ images, title, paragraph }: HeroSectionPro
       <div className="bg-black text-white ">
         <div className="">
           <div className="relative w-full md:w-2/4 space-y-5 mt-10">
-            <h1 className=" text-lg lg:text-5xl font-medium text-grey font-bold ">Discover Your Style Haven at <span className='secondLetter'>FabricNest</span></h1>
+            <h1 className=" text-5xl  font-medium text-grey font-bold ">Discover Your Style Haven at <span className='secondLetter'>FabricNest</span></h1>
             <div className="relative">
               <div className="relative z-10 space-y-3">
                 <p className="  text-lg lg:text-2xl font-medium text-grey font-bold">
