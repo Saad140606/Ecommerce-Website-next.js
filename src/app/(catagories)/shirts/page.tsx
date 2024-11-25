@@ -43,7 +43,7 @@ const Shirts = () => {
   return (
     <div>
       <HeroSection
-        images={["/assets/Shoes/shirts12.jpg"]}
+        images={["/assets/Shirts/shirts12.jpg"]}
         title={title} paragraph={paragraph}
       />
       {error && <p>{error}</p>}
