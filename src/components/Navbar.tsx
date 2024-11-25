@@ -213,7 +213,7 @@ export default function Navbar() {
               <div className="flex flex-col p-4">
                 <Link href="/menOutfits" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">Men Outfits</Link>
                 <Link href="/womenOutfits" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">Women Outfits</Link>
-                <Link href="/accessories" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">Summer Collection</Link>
+                <Link href="/summer" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">Summer Collection</Link>
                 <Link href="/childrens" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">Childrens</Link>
                 <Link href="/shirts" className="block px-4 py-2 text-gray-700 hover:bg-gray-100">T-Shirts</Link>
               </div>
