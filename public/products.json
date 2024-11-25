@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Oversized T-Shirt",
     "price": 89.99,
-    "slug": "shirt",
+    "slug": "shirt2",
     "category": "shirt",
     "img": "/assets/Shirts/shirts1.jpg",
     "description": "Relaxed fit for ultimate comfort."
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Striped T-Shirt",
     "price": 59.99,
-    "slug": "shirt",
+    "slug": "shirt3",
     "category": "shirt",
     "img": "/assets/Shirts/shirts2.jpg",
     "description": "Classic pattern for effortless style"
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Graphic T-Shirt",
     "price": 89.99,
-    "slug": "shirt",
+    "slug": "shirt4",
     "category": "shirt",
     "img": "/assets/Shirts/shirts3.jpg",
     "description": "Make a statement with our graphic t-shirts, featuring bold designs and vibrant prints, perfect for expressing your personality in a casual and stylish way."
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "V-Neck T-Shirt",
     "price": 59.99,
-    "slug": "shirt",
+    "slug": "shirt5",
     "category": "shirt",
     "img": "/assets/Shirts/shirts4.jpg",
     "description": "Add a touch of modern style with our v-neck t-shirts, designed to provide a flattering fit and comfortable feel for everyday wear."
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Striped T-Shirt",
     "price": 89.99,
-    "slug": "shirt",
+    "slug": "shirt6",
     "category": "shirt",
     "img": "/assets/Shirts/shirts6.jpg",
     "description": "Bring some classic flair to your wardrobe with our striped t-shirts, offering a timeless pattern that’s perfect for casual outings or weekend get-togethers."
@@ -57,7 +57,7 @@
     "id": 7,
     "name": "Long Sleeve T-Shirt",
     "price": 59.99,
-    "slug": "shirt",
+    "slug": "shirt7",
     "category": "shirt",
     "img": "/assets/Shirts/shirts7.jpg",
     "description": "Ideal for cooler days, our long sleeve t-shirts combine comfort and style, making them perfect for layering or wearing solo."
@@ -66,7 +66,7 @@
     "id": 8,
     "name": "Tie-Dye T-Shirt",
     "price": 89.99,
-    "slug": "shirt",
+    "slug": "shirt8",
     "category": "shirt",
     "img": "/assets/Shirts/shirts8.jpg",
     "description": "Bring color and fun to your wardrobe with our tie-dye t-shirts, offering a playful, vibrant pattern that’s perfect for a laid-back, summer vibe."
@@ -75,7 +75,7 @@
     "id": 9,
     "name": "Ringer T-Shirt",
     "price": 59.99,
-    "slug": "shirt",
+    "slug": "shirt9",
     "category": "shirt",
     "img": "/assets/Shirts/shirts9.jpg",
     "description": "Retro-inspired and modern at the same time, our ringer t-shirts feature contrasting color edges for a stylish, sporty look."
@@ -84,7 +84,7 @@
     "id": 10,
     "name": "Henley T-Shirt",
     "price": 89.99,
-    "slug": "shirt",
+    "slug": "shirt10",
     "category": "shirt",
     "img": "/assets/Shirts/shirts10.jpg",
     "description": "A perfect mix of casual and classic, our henley t-shirts with their button-down collar provide a relaxed, stylish fit with a hint of vintage charm."
@@ -93,7 +93,7 @@
     "id": 11,
     "name": "Tech T-Shirt",
     "price": 59.99,
-    "slug": "shirt",
+    "slug": "shirt11",
     "category": "shirt",
     "img": "/assets/Shirts/shirts11.jpg",
     "description": "Stay cool and comfortable with our tech t-shirts, designed with moisture-wicking fabric to keep you dry and fresh, whether you’re working out or going for a casual stroll."
@@ -102,7 +102,7 @@
     "id": 12,
     "name": "Pocket T-Shirt",
     "price": 89.99,
-    "slug": "shirt",
+    "slug": "shirt12",
     "category": "shirts",
     "img": "/assets/Shirts/shirts12.jpg",
     "description": "Add a functional twist to your casual look with our pocket t-shirts, featuring a handy pocket and a relaxed fit for easygoing style."

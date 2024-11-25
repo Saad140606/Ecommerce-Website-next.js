@@ -210,7 +210,7 @@ export default function TopSelling() {
       "id": 8,
       "name": "Tie-Dye T-Shirt",
       "price": 89.99,
-      "slug": "shirt",
+      "slug": "shirt8",
       "category": "shirt",
       "img": "/assets/Shirts/shirts8.jpg",
       "description": "Bring color and fun to your wardrobe with our tie-dye t-shirts, offering a playful, vibrant pattern that’s perfect for a laid-back, summer vibe."
@@ -219,7 +219,7 @@ export default function TopSelling() {
       "id": 9,
       "name": "Ringer T-Shirt",
       "price": 59.99,
-      "slug": "shirt",
+      "slug": "shirt9",
       "category": "shirt",
       "img": "/assets/Shirts/shirts9.jpg",
       "description": "Retro-inspired and modern at the same time, our ringer t-shirts feature contrasting color edges for a stylish, sporty look."
@@ -228,7 +228,7 @@ export default function TopSelling() {
       "id": 10,
       "name": "Henley T-Shirt",
       "price": 89.99,
-      "slug": "shirt",
+      "slug": "shirt10",
       "category": "shirt",
       "img": "/assets/Shirts/shirts10.jpg",
       "description": "A perfect mix of casual and classic, our henley t-shirts with their button-down collar provide a relaxed, stylish fit with a hint of vintage charm."
@@ -237,7 +237,7 @@ export default function TopSelling() {
       "id": 11,
       "name": "Tech T-Shirt",
       "price": 59.99,
-      "slug": "shirt",
+      "slug": "shirt11",
       "category": "shirt",
       "img": "/assets/Shirts/shirts11.jpg",
       "description": "Stay cool and comfortable with our tech t-shirts, designed with moisture-wicking fabric to keep you dry and fresh, whether you’re working out or going for a casual stroll."
@@ -246,7 +246,7 @@ export default function TopSelling() {
       "id": 12,
       "name": "Pocket T-Shirt",
       "price": 89.99,
-      "slug": "shirt",
+      "slug": "shirt12",
       "category": "shirts",
       "img": "/assets/Shirts/shirts12.jpg",
       "description": "Add a functional twist to your casual look with our pocket t-shirts, featuring a handy pocket and a relaxed fit for easygoing style."
