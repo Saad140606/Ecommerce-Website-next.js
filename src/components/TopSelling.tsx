@@ -210,8 +210,8 @@ export default function TopSelling() {
       "id": 8,
       "name": "Tie-Dye T-Shirt",
       "price": 89.99,
-      "slug": "t-shirt8",
-      "category": "shirts",
+      "slug": "shirt",
+      "category": "shirt",
       "img": "/assets/Shirts/shirts8.jpg",
       "description": "Bring color and fun to your wardrobe with our tie-dye t-shirts, offering a playful, vibrant pattern that’s perfect for a laid-back, summer vibe."
     },
@@ -219,8 +219,8 @@ export default function TopSelling() {
       "id": 9,
       "name": "Ringer T-Shirt",
       "price": 59.99,
-      "slug": "t-shirt9",
-      "category": "shirts",
+      "slug": "shirt",
+      "category": "shirt",
       "img": "/assets/Shirts/shirts9.jpg",
       "description": "Retro-inspired and modern at the same time, our ringer t-shirts feature contrasting color edges for a stylish, sporty look."
     },
@@ -228,8 +228,8 @@ export default function TopSelling() {
       "id": 10,
       "name": "Henley T-Shirt",
       "price": 89.99,
-      "slug": "t-shirt10",
-      "category": "shirts",
+      "slug": "shirt",
+      "category": "shirt",
       "img": "/assets/Shirts/shirts10.jpg",
       "description": "A perfect mix of casual and classic, our henley t-shirts with their button-down collar provide a relaxed, stylish fit with a hint of vintage charm."
     },
@@ -237,8 +237,8 @@ export default function TopSelling() {
       "id": 11,
       "name": "Tech T-Shirt",
       "price": 59.99,
-      "slug": "t-shirt11",
-      "category": "shirts",
+      "slug": "shirt",
+      "category": "shirt",
       "img": "/assets/Shirts/shirts11.jpg",
       "description": "Stay cool and comfortable with our tech t-shirts, designed with moisture-wicking fabric to keep you dry and fresh, whether you’re working out or going for a casual stroll."
     },
@@ -246,7 +246,7 @@ export default function TopSelling() {
       "id": 12,
       "name": "Pocket T-Shirt",
       "price": 89.99,
-      "slug": "t-shirt12",
+      "slug": "shirt",
       "category": "shirts",
       "img": "/assets/Shirts/shirts12.jpg",
       "description": "Add a functional twist to your casual look with our pocket t-shirts, featuring a handy pocket and a relaxed fit for easygoing style."
@@ -279,6 +279,15 @@ export default function TopSelling() {
       "description": "This sleek charcoal grey suit offers a refined, sophisticated look, perfect for professional settings and formal occasions."
     },
     {
+      "id": 19,
+      "name": "Navy Suit",
+      "price": 59.99,
+      "slug": "sprint-runner-outfit",
+      "category": "men",
+      "img": "/assets/Mens/men7.jpg",
+      "description": "A versatile and classic choice, this navy suit delivers a timeless appeal, suitable for everything from office wear to evening gatherings."
+    },
+    {
       "id": 28,
       "name": "Jogger Pants",
       "price": 89.99,
@@ -304,22 +313,14 @@ export default function TopSelling() {
       "category": "Childrens",
       "img": "/assets/Childrens/child7.jpg",
       "description": "Keep your kids dry and happy with this colorful waterproof raincoat, designed for rainy-day fun and adventure."
-    },  
-    {
-      "id": 40,
-      "name": "Button-Down Shirt and Denim Shorts",
-      "price": 89.99,
-      "slug": "basketball-performance-kit",
-      "category": "Summer4",
-      "img": "/assets/Summer/summer4.jpg",
-      "description": "A relaxed button-down shirt with rolled sleeves and casual denim shorts for a laid-back summer vibe."
     },
+  
     {
       "id": 41,
       "name": "Tank Top and Jogger Shorts",
       "price": 59.99,
       "slug": "comfort-running-accessories",
-      "category": "Summer5",
+      "category": "Summer",
       "img": "/assets/Summer/summer5.jpg",
       "description": "Beat the heat in a sporty tank top paired with comfy jogger shorts for active summer days."
     },
@@ -328,7 +329,7 @@ export default function TopSelling() {
       "name": "Flowy Maxi Dress",
       "price": 89.99,
       "slug": "all-in-one-basketball-accessories",
-      "category": "Summer6",
+      "category": "Summer",
       "img": "/assets/Summer/summer6.jpg",
       "description": "Stay elegant and breezy in a lightweight, floral maxi dress, perfect for summer occasions."
     },
@@ -337,7 +338,7 @@ export default function TopSelling() {
       "name": "Crop Top and High-Waisted Shorts",
       "price": 59.99,
       "slug": "running-comfort-pack",
-      "category": "Summer7",
+      "category": "Summer",
       "img": "/assets/Summer/summer7.jpg",
       "description": "Beat the heat in style with a trendy crop top and flattering high-waisted shorts."
     },
